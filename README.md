@@ -7,7 +7,7 @@ A leading e-commerce organization operating across multiple locations in Banglad
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
 
-![Purchase Analysis]()  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
 Figure 2: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
 
@@ -18,31 +18,31 @@ Figure 2: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
 - Created a metric table for an audit of Source Count, Pre-Count, Destination Count, and Post Count for ODS, Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
 - Implemented server agent for automated data loading and scheduling.
   
-![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/ODSETL1.PNG) 
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
  Figure 3: Control-flow diagram for ETL Pipeline from flat file source to ODS
 
-  ![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/ODSETL2.PNG) 
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
  Figure 4: Data-flow diagram of ETL Pipeline from flat file source to ODS Product table
 
-  ![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/ODSETL3.PNG) 
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
 Figure 5: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to ODS Purchase transactions table
 
-![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/SCETL4.PNG) 
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
  Figure 6: Control-flow diagram for ETL Pipeline for EDW
 
-  ![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/SCETL5.PNG) 
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
  Figure 7: Data-flow diagram of ETL Pipeline for EDW Dimension table
 
-  ![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/SCETL6.PNG) 
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)   
 
 Figure 8: Data-flow diagram for Incremental load of ETL Pipeline EDW Fact table
 
-![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Control.PNG)
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
 Figure 9: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
@@ -50,6 +50,6 @@ Figure 9: Control-flow diagram for ETL Pipeline to automate the system through S
 
 - Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
-![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/SCM.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
 Figure 10: Purchase Cube for Multidimensional Analysis
