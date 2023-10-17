@@ -40,6 +40,26 @@ Figure 6: Control-flow diagram for ETL Pipeline to automate the system through S
 
 - Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/OverM.PNG)  
 
-Figure 9: Purchase Cube for Multidimensional Analysis
+Figure 7: Overtime Cube for Multidimensional Analysis
+
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/OverT.PNG)  
+
+Figure 8: Overtime Cube for Tabular Analysis
+
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/MisM.PNG)  
+
+Figure 9: Misconduct Cube for Multidimensional Analysis
+
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/MisT.PNG)  
+
+Figure 10: Misconduct Cube for Tabular Analysis
+
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/AbsM.PNG)  
+
+Figure 11: Absent Cube for Multidimensional Analysis
+
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/AbsT.PNG)  
+
+Figure 12: Absent Cube for Tabular Analysis
