@@ -18,23 +18,23 @@ Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
 - Created a metric table for an audit of Source Count, Pre-Count, Destination Count, and Post Count for ODS, Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
 - Implemented server agent for automated data loading and scheduling.
   
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL3.PNG)  
 
- Figure 2: Control-flow diagram for ETL Pipeline from flat file source to ODS
+ Figure 2: Control-flow diagram for ETL Pipeline from flat file source to Staging database
 
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL4.PNG)  
 
- Figure 3: Data-flow diagram of ETL Pipeline from flat file source to ODS Product table
-
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
-
-Figure 4: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to ODS Purchase transactions table
+ Figure 3: Data-flow diagram of ETL Pipeline from flat file source to Staging Misconduct table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+
+Figure 4: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to Staging Absent Analysis table
+
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL2.PNG)  
 
  Figure 5: Control-flow diagram for ETL Pipeline for EDW
 
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL1.PNG)  
 
  Figure 6: Data-flow diagram of ETL Pipeline for EDW Dimension table
 
