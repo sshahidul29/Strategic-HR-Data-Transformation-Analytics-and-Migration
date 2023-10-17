@@ -1,9 +1,7 @@
 # Business Scenario: 
 A leading e-commerce organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. The main goal is to establish an Enterprise Data Warehouse along with Data Mart Cubes.
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
-- Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
-- Conducted stakeholder analysis and requirements gathering sessions, aligning data with business needs.
-- Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
+
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
 
