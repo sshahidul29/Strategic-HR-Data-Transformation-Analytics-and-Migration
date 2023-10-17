@@ -1,2 +1,1 @@
-# Strategic-HR-Data-Transformation-Analytics-and-Migration
-A leading Healthcare  Organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. 
+# Business Scenario: A leading Healthcare  Organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. To spearhead this initiative, we are actively seeking an experienced Data Architect. The primary objective is to establish an Enterprise Data Warehouse, complete with Data Mart Cubes powered by SQL Server Analysis Services. 
