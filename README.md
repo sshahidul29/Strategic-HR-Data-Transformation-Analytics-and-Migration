@@ -26,25 +26,17 @@ Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
 
  Figure 3: Data-flow diagram of ETL Pipeline from flat file source to Staging Misconduct table
 
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
-
-Figure 4: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to Staging Absent Analysis table
-
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL2.PNG)  
 
- Figure 5: Control-flow diagram for ETL Pipeline for EDW
+Figure 4: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to Staging Misconduct Analysis table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL1.PNG)  
 
- Figure 6: Data-flow diagram of ETL Pipeline for EDW Dimension table
-
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)   
-
-Figure 7: Data-flow diagram for Incremental load of ETL Pipeline EDW Fact table
+Figure 5: Data-flow diagram for Incremental load of ETL Pipeline EDW FactAbsent Analysis table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
-Figure 8: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
+Figure 6: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
 ## Datamart was built using SSAS for Business Users
 
