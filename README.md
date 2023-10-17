@@ -7,7 +7,7 @@ A leading e-commerce organization operating across multiple locations in Banglad
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
 
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW1.PNG)  
 
 Figure 2: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
 
