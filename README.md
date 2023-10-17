@@ -9,7 +9,7 @@ A leading e-commerce organization operating across multiple locations in Banglad
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW1.PNG)  
 
-Figure 2: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
+Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
 
 ## ETL Pipeline was built in Visual Studio using SSIS
 
@@ -20,31 +20,31 @@ Figure 2: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
   
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
- Figure 3: Control-flow diagram for ETL Pipeline from flat file source to ODS
+ Figure 2: Control-flow diagram for ETL Pipeline from flat file source to ODS
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
- Figure 4: Data-flow diagram of ETL Pipeline from flat file source to ODS Product table
+ Figure 3: Data-flow diagram of ETL Pipeline from flat file source to ODS Product table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
-Figure 5: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to ODS Purchase transactions table
+Figure 4: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to ODS Purchase transactions table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
- Figure 6: Control-flow diagram for ETL Pipeline for EDW
+ Figure 5: Control-flow diagram for ETL Pipeline for EDW
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
- Figure 7: Data-flow diagram of ETL Pipeline for EDW Dimension table
+ Figure 6: Data-flow diagram of ETL Pipeline for EDW Dimension table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)   
 
-Figure 8: Data-flow diagram for Incremental load of ETL Pipeline EDW Fact table
+Figure 7: Data-flow diagram for Incremental load of ETL Pipeline EDW Fact table
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
-Figure 9: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
+Figure 8: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
 ## Datamart was built using SSAS for Business Users
 
@@ -52,4 +52,4 @@ Figure 9: Control-flow diagram for ETL Pipeline to automate the system through S
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
 
-Figure 10: Purchase Cube for Multidimensional Analysis
+Figure 9: Purchase Cube for Multidimensional Analysis
