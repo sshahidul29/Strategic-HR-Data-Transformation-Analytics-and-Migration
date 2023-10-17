@@ -34,7 +34,7 @@ Figure 4: Data-flow diagram for Incremental load of ETL Pipeline from flat file 
 
 Figure 5: Data-flow diagram for Incremental load of ETL Pipeline EDW FactAbsent Analysis table
 
-![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW.PNG)  
+![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/Control.PNG)  
 
 Figure 6: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
