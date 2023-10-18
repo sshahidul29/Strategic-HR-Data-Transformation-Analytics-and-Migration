@@ -38,7 +38,7 @@ Figure 6: Control-flow diagram for ETL Pipeline to automate the system through S
 
 ## Datamart was built using SSAS for Business Users
 
-- Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
+- Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes support interactive dashboards and data visualizations for informed decision-making.
 
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/OverM.PNG)  
 
