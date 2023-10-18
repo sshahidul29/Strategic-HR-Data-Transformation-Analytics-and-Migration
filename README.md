@@ -1,5 +1,6 @@
 # Business Scenario: 
-A leading e-commerce organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. The main goal is to establish an Enterprise Data Warehouse along with Data Mart Cubes.
+A leading e-commerce organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. The main goal is to establish an Enterprise Data Warehouse along with Data Mart Cubes. It comprises three distinct Business Processes, each with end-to-end design, development and Analysis.
+#### Business Processes: 1. MisConduct Analysis, 2. Overtime Analysis and 3. Absent Analysis 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
 
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
