@@ -8,7 +8,6 @@ A leading e-commerce organization operating across multiple locations in Banglad
 
 ## System Development Life Cycle (SDLC)
 - Agile Kanban Methodology
-- 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
 - Conducted in collaboration with Managers, Project Managers, Technical Product Managers, Clients, Subject-matter experts and Data Governance representatives to obtain requirements, objectives, and business rules for the project.
 - Conducted data profiling.
