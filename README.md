@@ -1,11 +1,22 @@
 # Business Scenario: 
 A leading e-commerce organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. The main goal is to establish an Enterprise Data Warehouse along with Data Mart Cubes. It comprises three distinct Business Processes, each with end-to-end design, development and Analysis.
-#### Business Processes: 1. MisConduct Analysis, 2. Overtime Analysis and 3. Absent Analysis 
+#### Business Processes: 1. MisConduct Analysis, 2. Overtime Analysis and 3. Absent Analysis
+
+## Software requirements:
+- MS SQL Server, SSMS, SSIS, SSAS, and Visual Studio.
+- Windows OS
+
+## System Development Life Cycle (SDLC)
+- Agile Kanban Methodology
+- 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
-
+- Conducted in collaboration with Managers, Project Managers, Technical Product Managers, Clients, Subject-matter experts and Data Governance representatives to obtain requirements, objectives, and business rules for the project.
+- Conducted data profiling.
+- Created the opportunity/stakeholder Matrix (it helps identify which business groups should be invited to the collaborative design sessions for each process-centric row).
+- Constructed a Bubble Chart for communicating data models to a non-technical audience. 
+- Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
-- Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
-
+- Created and configured Staging, EDW, and Control Framework databases on MS SQL Server.
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HREDW1.PNG)  
 
 Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
@@ -13,10 +24,12 @@ Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
 ## ETL Pipeline was built in Visual Studio using SSIS
 
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the flat file (CSV).
-- Designed SQL Server Integration Service (SSIS) packages and wrote T-SQL scripts for extraction, transformation, and loading (ETL) of data from flat file (CSV) to a staging area and subsequently to the data warehouse.
-- Created a metric table for an audit of Source Count, Pre-Count, Destination Count, and Post Count for ODS, Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
-- Implemented server agent for automated data loading and scheduling.
-  
+- Produced ETL Mapping and Transformation Rules and data Quality documentation for the project.
+- Developed and tested ETL processes/programs necessary to extract data from different data sources, Transformed and cleansed the data, and loaded it into a Staging database and Staging to Data Warehouse, using connection managers like OLE DB, Excel, Flat file, and ADO.NET.
+- Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
+- Design and Implement Ralph Kimball slowly changing dimension (SCD) Type 1 and 2.
+- Troubleshooting and root cause analysis activities to fix bugs in the data integration process.
+- Used the server agent to automate the ETL processes to ensure new data were loaded automatically into the Data Warehouse.
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL3.PNG)  
 
  Figure 2: Control-flow diagram for ETL Pipeline from flat file source to Staging database
