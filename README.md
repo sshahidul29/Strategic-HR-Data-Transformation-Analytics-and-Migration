@@ -8,7 +8,7 @@ A leading e-commerce organization operating across multiple locations in Banglad
 
 ## System Development Life Cycle (SDLC)
 - Agile Kanban Methodology
-## Enterprise Data Warehouse was built in MSSQL Server using SSMS
+## Enterprise Data Warehouse was built in MS SQL Server using SSMS
 - Conducted in collaboration with Managers, Project Managers, Technical Product Managers, Clients, Subject-matter experts and Data Governance representatives to obtain requirements, objectives, and business rules for the project.
 - Conducted data profiling.
 - Created the opportunity/stakeholder Matrix (it helps identify which business groups should be invited to the collaborative design sessions for each process-centric row).
@@ -21,7 +21,6 @@ A leading e-commerce organization operating across multiple locations in Banglad
 Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
 
 ## ETL Pipeline was built in Visual Studio using SSIS
-
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the flat file (CSV).
 - Produced ETL Mapping and Transformation Rules and data Quality documentation for the project.
 - Developed and tested ETL processes/programs necessary to extract data from different data sources, Transformed and cleansed the data, and loaded it into a Staging database and Staging to Data Warehouse, using connection managers like OLE DB, Excel, Flat file, and ADO.NET.
