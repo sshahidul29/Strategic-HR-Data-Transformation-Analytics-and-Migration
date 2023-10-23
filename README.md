@@ -1,7 +1,7 @@
 ## Business Scenario: 
 A leading e-commerce organization operating across multiple locations in Bangladesh is taking a proactive step to optimize its human resources management through the implementation of robust data analytics. The main goal is to establish an Enterprise Data Warehouse along with Data Mart Cubes. It comprises three distinct Business Processes, each with end-to-end design, development and Analysis.
 #### Business Processes: 1. MisConduct Analysis, 2. Overtime Analysis and 3. Absent Analysis
-## Achievement:
+## Achievements:
 - Created a strong data warehouse for accessing data for business analysis purposes.
 - Human Resources Management successfully understood the trends in employee absences for performance appraisals and proactively planned for new employee recruitment to meet customer service expectations.
 - The Human Resources Management team successfully understood how changes in a salesperson's marital status affected their overtime hours.
