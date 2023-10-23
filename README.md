@@ -3,6 +3,7 @@ A leading e-commerce organization operating across multiple locations in Banglad
 #### Business Processes: 1. MisConduct Analysis, 2. Overtime Analysis and 3. Absent Analysis
 ## Achievement:
 - Created a strong data warehouse for accessing data for business analysis purposes.
+- Human Resources Management successfully understood the trends in employee absences for performance appraisals and proactively planned for new employee recruitment to meet customer service expectations.
 - The Human Resources Management team successfully understood how changes in a salesperson's marital status affected their overtime hours.
 - Based on the analysis of employee misconduct data as part of their ongoing strategy, Human Resources Management was able to enhance work ethics and improve customer satisfaction.
 ## Software requirements:
