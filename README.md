@@ -32,6 +32,7 @@ Figure 1: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
 - Design and Implement Ralph Kimball slowly changing dimension (SCD) Type 1 and 2.
 - Troubleshooting and root cause analysis activities to fix bugs in the data integration process.
 - Used the server agent to automate the ETL processes to ensure new data were loaded automatically into the Data Warehouse.
+  
 ![HR](https://github.com/sshahidul29/Strategic-HR-Data-Transformation-Analytics-and-Migration/blob/main/Fugure/HRETL3.PNG)  
 
  Figure 2: Control-flow diagram for ETL Pipeline from flat file source to Staging database
